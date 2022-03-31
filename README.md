@@ -2,7 +2,7 @@
 <img src="https://github.com/shounak192/shounak192/blob/main/avatar.JPG" alt="avatar">
 <h3 align="center">An enthusiastic problem solver. Currently working as a Full Stack Dev.</h3>
 
-- 📄 Know about my experiences [https://bit.ly/shounakCV](https://bit.ly/shounakCV)
+- 📄 Resume: [https://bit.ly/shounakCV](https://bit.ly/shounakCV)
 
 <h3 align="left">Connect with me 💬:</h3>
 <p align="left">
