@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shounak Sengupta!</h1>
+![](https://github.com/shounak192/shounak192/blob/main/DSCN7318.JPG)
 <h3 align="center">An enthusiastic problem solver. Currently working as a Full Stack Dev.</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Sf4M4z1NNTIQcFLbsJcg88rkvyeHlHjd/view?usp=sharing](https://drive.google.com/file/d/1Sf4M4z1NNTIQcFLbsJcg88rkvyeHlHjd/view?usp=sharing)
