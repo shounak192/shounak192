@@ -4,7 +4,7 @@
 <h3 align="center">An enthusiastic problem solver. Currently working as a Full Stack Dev.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shounak192&label=Profile%20views&color=0e75b6&style=flat" alt="shounak192" /> </p>
 
-- 📄 Resume: [https://bit.ly/shounakCV](https://bit.ly/shounakCV)
+- 📄 Resume: [https://bit.ly/ShounakCV](https://bit.ly/ShounakCV)
 <img align="right" width="320" height="250" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"></img>
 <h3 align="left">Connect with me 💬:</h3>
 <p align="left">
