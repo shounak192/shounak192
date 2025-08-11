@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋, I'm Shounak Sengupta!</h1>
 <!-- <img src="https://github.com/shounak192/shounak192/blob/main/avtar.JPG" alt="avatar"> -->
 
-<h3 align="center">An enthusiastic problem solver. Currently working as a Full Stack Dev.</h3>
+<h3 align="center">An enthusiastic problem solver. Currently working as a Java Dev.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shounak192&label=Profile%20views&color=0e75b6&style=flat" alt="shounak192" /> </p>
 
 <!-- - 📄 Resume: [http://surl.li/fyitv](http://surl.li/fyitv) -->
